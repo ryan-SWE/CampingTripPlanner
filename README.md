@@ -23,8 +23,7 @@ Rather than from-scratch implementation of existing technologies, photo sharing 
 
 Contributors should also be familiar or willing to learn Android Studios. See the repo included below for details.
 
-[Starter Repo]
-
 **Pitch**
 
-https://github.com/ryan-SWE/CampingTripPlanner/blob/master/Camping_Trip_Planner.ppt
+![image](https://github.com/ryan-SWE/CampingTripPlanner/blob/master/pitch.png)
+
