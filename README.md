@@ -21,7 +21,10 @@ Project Management – this is a project with many different parts and sections 
 
 Rather than from-scratch implementation of existing technologies, photo sharing should be done via Google Photos and directions/maps should be done with Google Maps. So experience in those APIs is preferred. Eventually this project will ideally be developed into an iOS/Android/Web app. However, in the interest of getting things off the ground, my proposed contribution is to first develop this project as a native Android Application, as that is where I have recent experience. Due to the limited scope of this implementation, things such as uploading photos are not expected to be fully operational. However, the underlying framework and design should be developed enough to make future integration as pain-free as possible.
 
-Contributors should also be familiar or willing to learn Android Studios.
+Contributors should also be familiar or willing to learn Android Studios. See the repo included below for details.
 
-[Presentation]
 [Starter Repo]
+
+**Pitch**
+
+https://github.com/ryan-SWE/CampingTripPlanner/blob/master/Camping_Trip_Planner.ppt
