@@ -25,5 +25,5 @@ Contributors should also be familiar or willing to learn Android Studios. See th
 
 **Pitch**
 
-![image](https://github.com/ryan-SWE/CampingTripPlanner/blob/master/pitch.png)
+![image](https://github.com/ryan-SWE/CampingTripPlanner/blob/master/pitch_.png)
 
